@@ -1,16 +1,32 @@
-## Hi there 👋
 
-<!--
-**Nisha-A-K/Nisha-A-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![pp](https://github.com/user-attachments/assets/2281164c-bed0-4fa3-a93a-c17c8029b813)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Hello! 👋
+
+I'm Nisha, a dedicated data analyst with a passion for transforming complex datasets into actionable insights. Proficient in Excel, Power BI, SQL, Python, and machine learning, I thrive on leveraging data to drive strategic decisions and optimize business performance.
+
+## About Me
+
+* 🔭 Current Focus: Developing predictive models to enhance business decision-making.
+  
+* 🌱 Learning Journey: Delving into advanced machine learning techniques and deep learning frameworks.
+  
+* 👯 Collaboration Interests: Eager to partner on open-source data science projects and innovative analytics solutions.
+  
+* 💬 Let's Talk About: Data visualization, statistical analysis, and automating data workflows.
+  
+* 📫 Contact Me: nishasachinsundar@gmail.com
+  
+* 😄 Pronouns: She/Her
+
+## Skills
+
+* Programming Languages: Scikit-learn, SQL (Data extraction, manipulation, and analysis), Python, (NumPy, Pandas,Matplotlib)
+  
+* Data Analysis Tools: Power BI, Microsoft Excel (DAX (Data Analysis Expressions), Pivot Tables & VLOOKUP,Power Query)
+  
+* Databases: SQL
+  
+* Machine Learning: Regression, Classification, Clustering, Deep Learning Concepts
