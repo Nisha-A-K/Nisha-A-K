@@ -3,9 +3,12 @@
 
 
 
-Hello! 👋
+# Hello! 👋 I'm Nisha, 
 
-I'm Nisha, a dedicated data analyst with a passion for transforming complex datasets into actionable insights. Proficient in Excel, Power BI, SQL, Python, and machine learning, I thrive on leveraging data to drive strategic decisions and optimize business performance.
+## Proficient in Excel, Power BI, SQL, Python, and machine learning
+
+#### A dedicated data analyst with a passion for transforming complex datasets into actionable insights and thriving on leveraging data to drive strategic decisions and optimize business performance. 
+
 
 ## About Me
 
