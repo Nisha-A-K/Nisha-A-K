@@ -3,7 +3,11 @@
 
 
 
-# Hello! 👋 I'm Nisha, 
+<h1 align="center">
+  <img src="https://github.com/Nisha-A-K/Nisha-A-K/blob/main/assets/coding.gif" width="60">
+  Hi, I'm Nisha A K 👋
+  <img src="https://github.com/Nisha-A-K/Nisha-A-K/blob/main/assets/rocket.gif" width="50">
+</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=25&center=true&vCenter=true&width=500&lines=Data+Analyst+%7C+ML+Enthusiast;Power+BI+%7C+SQL+%7C+Excel+%7C+Python;Love+to+Analyze+and+Visualize+Data" />
