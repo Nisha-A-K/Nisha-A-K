@@ -1,9 +1,13 @@
 
-![pp](https://github.com/user-attachments/assets/2281164c-bed0-4fa3-a93a-c17c8029b813)
+#![pp](https://github.com/user-attachments/assets/2281164c-bed0-4fa3-a93a-c17c8029b813)
 
 
 
 # Hello! 👋 I'm Nisha, 
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=25&center=true&vCenter=true&width=500&lines=Data+Analyst+%7C+ML+Enthusiast;Power+BI+%7C+SQL+%7C+Excel+%7C+Python;Love+to+Analyze+and+Visualize+Data" />
+</p>
 
 ## Proficient in Excel, Power BI, SQL, Python, and machine learning
 
