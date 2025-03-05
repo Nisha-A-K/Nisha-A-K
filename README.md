@@ -13,8 +13,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=25&center=true&vCenter=true&width=500&lines=Data+Analyst+%7C+ML+Enthusiast;Power+BI+%7C+SQL+%7C+Excel+%7C+Python;Love+to+Analyze+and+Visualize+Data" />
 </p>
 
-## Proficient in Excel, Power BI, SQL, Python, and machine learning
-
 #### A dedicated data analyst with a passion for transforming complex datasets into actionable insights and thriving on leveraging data to drive strategic decisions and optimize business performance. 
 
 <p align="center">
@@ -35,6 +33,18 @@
   
 * 😄 Pronouns: She/Her
 
+## Skills
+
+* Programming Languages: Scikit-learn, SQL (Data extraction, manipulation, and analysis), Python, (NumPy, Pandas,Matplotlib)
+  
+* Data Analysis Tools: Power BI, Microsoft Excel (DAX (Data Analysis Expressions), Pivot Tables & VLOOKUP,Power Query)
+  
+* Databases: SQL
+  
+* Machine Learning: Regression, Classification, Clustering, Deep Learning Concepts
+
+  
+
 ## 🖥 Tech Stack:
 <p align="left">
     <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
@@ -49,15 +59,6 @@
 </p>
 
 
-## Skills
-
-* Programming Languages: Scikit-learn, SQL (Data extraction, manipulation, and analysis), Python, (NumPy, Pandas,Matplotlib)
-  
-* Data Analysis Tools: Power BI, Microsoft Excel (DAX (Data Analysis Expressions), Pivot Tables & VLOOKUP,Power Query)
-  
-* Databases: SQL
-  
-* Machine Learning: Regression, Classification, Clustering, Deep Learning Concepts
 
   ## 📊 GitHub Stats:
 
