@@ -17,7 +17,9 @@
 
 #### A dedicated data analyst with a passion for transforming complex datasets into actionable insights and thriving on leveraging data to drive strategic decisions and optimize business performance. 
 
-
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
+</p>
 ## About Me
 
 * 🔭 Current Focus: Developing predictive models to enhance business decision-making.
