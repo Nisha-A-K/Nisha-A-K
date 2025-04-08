@@ -12,7 +12,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=25&center=true&vCenter=true&width=500&lines=Data+Analyst+%7C+ML+Enthusiast;Power+BI+%7C+SQL+%7C+Excel+%7C+Python;Love+to+Analyze+and+Visualize+Data" />
 </p>
 
-#### A dedicated data analyst with a passion for transforming complex datasets into actionable insights and thriving on leveraging data to drive strategic decisions and optimize business performance. 
+####  Passionate Data Analyst and Machine Learning Enthusiast dedicated to transforming data into actionable insights.Eager to learn new techniques and collaborate on innovative data science projects. Let’s connect and explore the endless possibilities in the world of data!
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
