@@ -29,6 +29,8 @@
 * 💬 Let's Talk About: Data visualization, statistical analysis, and automating data workflows.
   
 * 📫 Contact Me: nishasachinsundar@gmail.com
+
+* 🔗 Linkedin : https://www.linkedin.com/in/nisha-a-k/
   
 * 😄 Pronouns: She/Her
 
