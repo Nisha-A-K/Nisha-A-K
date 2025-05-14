@@ -20,15 +20,15 @@
 
 🌟 **About Me**
 
-- 🔍 Former Patent Analyst with a deep interest in data analytics
+- 🔍 Former Patent Analyst with a deep interest in data analytics.
   
-- 📊 Currently diving into real-world data problems using Python, SQL, Power BI
+- 📊 Currently diving into real-world data problems using Python, SQL, and Power BI.
   
-- 💡 Passionate about NLP, machine learning, and deriving actionable insights
+- 💡 Passionate about NLP, machine learning, and deriving actionable insights.
   
-- 🌱 Constantly learning: exploring MLOps and advanced visualization
+- 🌱 Constantly learning by exploring MLOps and advanced visualization.
   
-* 💬 Let's Talk About: Data visualization, statistical analysis, and automating data workflows.
+- 💬 Let's talk about data visualization, statistical analysis, and automating data workflows.
   
 * 😄 Pronouns: She/Her
   
