@@ -57,7 +57,11 @@
 | [New York City Airbnb Dashboard](https://github.com/Nisha-A-K/Newyork-city-Airbnb-Dashboard) | Interactive Power BI dashboard analyzing Airbnb listings in NYC | Power BI, Excel |
 | [Mobile Sales Dashboard](https://github.com/Nisha-A-K/Mobile-Sales-Dashboard) | Interactive Power BI dashboard for Mobile Sales insights | Power BI, Excel |
 
-  
+  📬 **Let’s Connect**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nishaak)
+[![Gmail](https://img.shields.io/badge/Email-d14836?style=flat&logo=gmail&logoColor=white)](mailto:nishasachinsundar@gmail.com)
+
   ## 📊 GitHub Stats:
 
 <p align="center">
