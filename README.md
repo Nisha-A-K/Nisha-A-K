@@ -18,32 +18,19 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
 </p>
 
-## About Me
+🌟 **About Me**
 
-* 🔭 Current Focus: Developing predictive models to enhance business decision-making.
+- 🔍 Former Patent Analyst with a deep interest in data analytics
   
-* 🌱 Learning Journey: Delving into advanced machine learning techniques and deep learning frameworks.
+- 📊 Currently diving into real-world data problems using Python, SQL, Power BI
   
-* 👯 Collaboration Interests: Eager to partner on open-source data science projects and innovative analytics solutions.
+- 💡 Passionate about NLP, machine learning, and deriving actionable insights
+  
+- 🌱 Constantly learning: exploring MLOps and advanced visualization
   
 * 💬 Let's Talk About: Data visualization, statistical analysis, and automating data workflows.
   
-* 📫 Contact Me: nishasachinsundar@gmail.com
-
-* 🔗 Linkedin : https://www.linkedin.com/in/nisha-a-k/
-  
 * 😄 Pronouns: She/Her
-
-## Skills
-
-* Programming Languages: Scikit-learn, SQL (Data extraction, manipulation, and analysis), Python, (NumPy, Pandas,Matplotlib)
-  
-* Data Analysis Tools: Power BI, Microsoft Excel (DAX (Data Analysis Expressions), Pivot Tables & VLOOKUP,Power Query)
-  
-* Databases: SQL
-  
-* Machine Learning: Regression, Classification, Clustering, Deep Learning Concepts
-
   
 
 ## 🖥 Tech Stack:
@@ -59,8 +46,18 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
+📈 **Featured Projects**
 
+| Project | Description | Tech |
+|--------|-------------|------|
+| [IoT Guardian: Real-Time Threat Detection System](https://github.com/Nisha-A-K/IoT-Guardian-Real-Time-Threat-Detection-System-Using-RT-IoT2022-) | Machine learning-based system for real-time threat detection in IoT networks | Python, Scikit-learn |
+| [Customer Segmentation](https://github.com/Nisha-A-K/Customer-Segmentation) | K-means clustering to group customer behavior | Python, Scikit-learn |
+| [Car Price Estimator](https://github.com/Nisha-A-K/Car-Price-Estimator---Machine-Learning-Project) | Linear regression model to predict car prices | Python, Scikit-learn |
+| [Resume Categorization Using NLP](https://github.com/Nisha-A-K/Resume-Categorization-Using-NLP) | Automated classification of resumes into job categories using NLP techniques | Python, Scikit-learn |
+| [New York City Airbnb Dashboard](https://github.com/Nisha-A-K/Newyork-city-Airbnb-Dashboard) | Interactive Power BI dashboard analyzing Airbnb listings in NYC | Power BI, Excel |
+| [Mobile Sales Dashboard](https://github.com/Nisha-A-K/Mobile-Sales-Dashboard) | Interactive Power BI dashboard for Mobile Sales insights | Power BI, Excel |
 
+  
   ## 📊 GitHub Stats:
 
 <p align="center">
