@@ -51,7 +51,7 @@
 | Project | Description | Tech |
 |--------|-------------|------|
 | [IoT Guardian: Real-Time Threat Detection System](https://github.com/Nisha-A-K/IoT-Guardian-Real-Time-Threat-Detection-System-Using-RT-IoT2022-) | Machine learning-based system for real-time threat detection in IoT networks | Python, Scikit-learn |
-| [Car Price Estimator](https://github.com/Nisha-A-K/Car-Price-Estimator---Machine-Learning-Project) | Linear regression model to predict car prices | Python, Scikit-learn |
+| [Sign Language Detector]((https://github.com/Nisha-A-K/Sign-Language-Detector) |American Sign Language (ASL) recognizer built with Python | Python, MediaPipe,Scikit-learn |
 | [Resume Categorization Using NLP](https://github.com/Nisha-A-K/Resume-Categorization-Using-NLP) | Automated classification of resumes into job categories using NLP techniques | Python, Scikit-learn |
 | [New York City Airbnb Dashboard](https://github.com/Nisha-A-K/Newyork-city-Airbnb-Dashboard) | Interactive Power BI dashboard analyzing Airbnb listings in NYC | Power BI, Excel |
 | [Mobile Sales Dashboard](https://github.com/Nisha-A-K/Mobile-Sales-Dashboard) | Interactive Power BI dashboard for Mobile Sales insights | Power BI, Excel |
