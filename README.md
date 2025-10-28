@@ -12,7 +12,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=25&center=true&vCenter=true&width=500&lines=Data+Analyst+%7C+ML+Enthusiast;Power+BI+%7C+SQL+%7C+Excel+%7C+Python;Love+to+Analyze+and+Visualize+Data" />
 </p>
 
-####  Passionate Data Analyst and Machine Learning Enthusiast dedicated to transforming data into actionable insights.Eager to learn new techniques and collaborate on innovative data science projects. Let’s connect and explore the endless possibilities in the world of data!
+####  💡 Passionate Data Analyst skilled in Power BI, SQL, Python, and Excel — transforming data into clear, actionable insights. With a background as a Patent Analyst and certification in Data Science & ML from Illinois Tech (US), I bring analytical depth and business acumen to every project.
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
@@ -37,8 +37,8 @@
 <p align="left">
     <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
     <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
     <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
     <img src="https://img.shields.io/badge/Scipy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
@@ -46,15 +46,21 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
+## 🎓 Certifications
+- Data Science & Machine Learning : Illinois Institute of Technology (US)
+- Advanced Power BI : Skill Nation
+- AI-Powered Excel with ChatGPT : Skill Nation
+- Google Data Analytics: Coursera
+  
 📈 **Featured Projects**
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [IoT Guardian: Real-Time Threat Detection System](https://github.com/Nisha-A-K/IoT-Guardian-Real-Time-Threat-Detection-System-Using-RT-IoT2022-) | Machine learning-based system for real-time threat detection in IoT networks | Python, Scikit-learn |
-| [Sign Language Detector](https://github.com/Nisha-A-K/Sign-Language-Detector) |American Sign Language (ASL) recognizer built with Python | Python, MediaPipe,Scikit-learn |
-| [Resume Categorization Using NLP](https://github.com/Nisha-A-K/Resume-Categorization-Using-NLP) | Automated classification of resumes into job categories using NLP techniques | Python, Scikit-learn |
-| [New York City Airbnb Dashboard](https://github.com/Nisha-A-K/Newyork-city-Airbnb-Dashboard) | Interactive Power BI dashboard analyzing Airbnb listings in NYC | Power BI, Excel |
-| [Mobile Sales Dashboard](https://github.com/Nisha-A-K/Mobile-Sales-Dashboard) | Interactive Power BI dashboard for Mobile Sales insights | Power BI, Excel |
+| [IoT Guardian: Real-Time Threat Detection System](https://github.com/Nisha-A-K/IoT-Guardian-Real-Time-Threat-Detection-System-Using-RT-IoT2022-) | Built ML-based IoT threat detection system → achieved 94% accuracy | Python, Scikit-learn |
+| [Sign Language Detector](https://github.com/Nisha-A-K/Sign-Language-Detector) |ASL recognizer detecting 26 gestures in real-time | Python, MediaPipe,Scikit-learn |
+| [Resume Categorization Using NLP](https://github.com/Nisha-A-K/Resume-Categorization-Using-NLP) |Automated resume sorting → 85% F1 score | Python, Scikit-learn |
+| [New York City Airbnb Dashboard](https://github.com/Nisha-A-K/Newyork-city-Airbnb-Dashboard) | Found top 10 profitable neighborhoods → improved decision speed by 40%| Power BI, Excel |
+| [Mobile Sales Dashboard](https://github.com/Nisha-A-K/Mobile-Sales-Dashboard) | Visualized KPIs across 5 regions for business insight | Power BI, Excel |
 
   📬 **Let’s Connect**
 
